@@ -5,4 +5,4 @@ Aula 1 : Visão geral de algoritimo.
 
 Aula 2 : Visão geral de Estrutura de Dados.
 
-Teste git local github
+testando commit dentro do vscode 
