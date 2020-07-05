@@ -4,5 +4,3 @@ Curso Desenvolvimento Web Moderno com JavaScript , Angular, Vue JS, ExpressJS, M
 Aula 1 : Visão geral de algoritimo.
 
 Aula 2 : Visão geral de Estrutura de Dados.
-
-testando commit dentro do vscode 
